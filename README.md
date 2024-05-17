@@ -14,6 +14,5 @@ https://flutter.dev/docs, which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
 ## Imagen
-
-![image](https://github.com/HectorRezaRamirez18/Act8-Reza0534/assets/143548137/746d65fc-8028-4262-8a7c-0aee77cb25d7)
+![image](https://github.com/REriveradelgadillo/act8-Rivera0538/assets/143548741/1d157974-6b7a-4bd9-8733-077423b40687)
 
