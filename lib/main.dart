@@ -109,7 +109,7 @@ class MyHomePage extends StatelessWidget {
                 Container(
                     padding: EdgeInsets.all(5),
                     child: Text(
-                      "ID Gorra",
+                      "id Gorra",
                       style:
                           TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
                     )),
